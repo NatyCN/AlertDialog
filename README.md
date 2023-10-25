@@ -6,7 +6,7 @@
 - :calendar:| **Data:** 04/09/2023
 - :file_folder:| **Arquivos:** [Clique aqui para ver o código do projeto!](https://github.com/NatyCN/AlertDialog/tree/master)
 
-[Clique aqui para ver o funcionamento do aplicativo!](https://github.com/NatyCN/alertdialog/blob/main/alertdialog.mp4)
+[Clique aqui para baixar o vídeo sobre o funcionamento do aplicativo!](https://github.com/NatyCN/alertdialog/blob/main/alertdialog.mp4)
 
 ## :information_source:| O que é Alert Dialog?
 
